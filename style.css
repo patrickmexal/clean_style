@@ -1,6 +1,6 @@
 .container-fluid {
     background: url("https://www.hdwallpapers.in/walls/colorful_abstract_hd-wide.jpg");
-    background-repeat: none;
+    background-repeat: repeat-y;
     background-size: cover;
 }
 
