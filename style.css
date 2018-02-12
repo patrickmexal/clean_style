@@ -36,3 +36,8 @@
 	margin-right: 73px;
 	font-size: 4.5em;
 }
+@media screen(min-width: 50px) {
+	.glyphicon {
+		transform: rotate(180deg) 
+	}
+}
