@@ -1,6 +1,9 @@
 .container-fluid {
     background: url("https://www.hdwallpapers.in/walls/colorful_abstract_hd-wide.jpg");
     background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
 }
 
 .col-lg-4 {
@@ -34,7 +37,8 @@
     margin-right: 73px;
     font-size: 5em;
 }
-.glyphicon:hover {  -webkit-animation: spin 2s infinite linear;
+.glyphicon:hover {  
+  -webkit-animation: spin 2s infinite linear;
   -moz-animation: spin 2s infinite linear;
   -o-animation: spin 2s infinite linear;
   animation: spin 2s infinite linear;
