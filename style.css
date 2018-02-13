@@ -6,6 +6,9 @@
     background-repeat: no-repeat;
 }
 
+h1 {
+  text-align: center;
+}
 .col-lg-4 {
     color: white;
     font-family: 'Alegreya Sans SC', sans-serif;
