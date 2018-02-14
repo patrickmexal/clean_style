@@ -43,10 +43,10 @@ h1 {
     font-size: 5em;
 }
 .glyphicon:hover {  
-  -webkit-animation: spin 2s infinite linear;
-  -moz-animation: spin 2s infinite linear;
-  -o-animation: spin 2s infinite linear;
-  animation: spin 2s infinite linear;
+  -webkit-animation: spin 9s infinite linear;
+  -moz-animation: spin 9s infinite linear;
+  -o-animation: spin 9s infinite linear;
+  animation: spin 9s infinite linear;
 }
 
 @-moz-keyframes spin {
